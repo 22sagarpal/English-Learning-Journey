@@ -1,7 +1,4 @@
-# Day 2 - A1 English
-
-
-A1 English – Day 2
+# A1 English – Day 2
 
 1. Today's Vocabulary (20 Words)
 
