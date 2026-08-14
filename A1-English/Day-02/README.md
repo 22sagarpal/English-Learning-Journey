@@ -86,3 +86,36 @@ A: How are you?
 B: I am fine, thank you.
 A: Are you a student?
 B: Yes, I am.
+
+6. Writing Practice
+Write these sentences:
+
+I am a student.
+He is my brother.
+She is my sister.
+We are a family.
+They are happy.
+
+7. Homework
+Translate into English:
+
+वह मेरा भाई है।
+वह मेरी बहन है।
+मैं खुश हूँ।
+हम छात्र हैं।
+वे मेरे दोस्त हैं।
+
+Answers
+He is my brother.
+She is my sister.
+I am happy.
+We are students.
+They are my friends.
+
+
+Day 2 Goal
+✅ 20 new words
+✅ Am, Is, Are
+✅ Greetings
+✅ Simple conversation
+✅ Speaking practice
