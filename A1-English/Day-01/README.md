@@ -34,10 +34,10 @@ Pronoun       Meaning
 I             मैं
 You           तुम / आप
 He            वह (पुरुष)
-She.           वह (महिला)
-It.            यह / वह (वस्तु)
-We.            हम
-They.          वे
+She           वह (महिला)
+It            यह / वह (वस्तु)
+We            हम
+They          वे
 
 Examples
 I am Sagar.
@@ -89,3 +89,11 @@ I am a student.
 This is my book.
 She/He is happy.
 We are friends.
+
+
+Day 1 Goal
+✅ 20 new words
+✅ Pronouns (I, You, He, She, We, They)
+✅ Basic introduction
+✅ 5 simple English sentences
+✅ 1 short conversation.
