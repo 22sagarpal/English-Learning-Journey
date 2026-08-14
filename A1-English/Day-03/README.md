@@ -87,3 +87,35 @@ A: Do you have an apple?
 B: Yes, I do.
 A: What color is it?
 B: It is red.
+
+6. Writing Practice
+Write these sentences:
+
+I have a bag.
+She has an apple.
+The cat is small.
+The bus is blue.
+I have a computer.
+
+7. Homework
+Translate into English:
+
+मेरे पास एक किताब है।
+उसके पास एक सेब है।
+कुत्ता छोटा है।
+बस नीली है।
+मेरे पास एक मोबाइल है।
+
+Answers
+I have a book.
+She has an apple.
+The dog is small.
+The bus is blue.
+I have a mobile.
+
+Day 3 Goal
+✅ 20 new words
+✅ Articles (A, An, The)
+✅ Self-introduction practice
+✅ Basic conversation
+✅ Writing practice
