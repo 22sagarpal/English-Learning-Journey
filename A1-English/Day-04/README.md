@@ -72,3 +72,45 @@ These are flowers.
 Those are trees.
 We have two books.
 I drink milk and tea.
+
+5. Daily Conversation
+
+A: What is this?
+B: This is a book.
+A: What are these?
+B: These are flowers.
+A: What is that?
+B: That is a shop.
+
+6. Writing Practice
+
+Write these sentences:
+This is my phone.
+That is a tree.
+These are books.
+Those are flowers.
+I have two pens.
+
+7. Homework
+
+Translate into English:
+यह मेरी किताब है।
+वह एक पेड़ है।
+ये फूल हैं।
+वे कारें हैं।
+मेरे पास दो पेन हैं।
+
+Answers
+This is my book.
+That is a tree.
+These are flowers.
+Those are cars.
+I have two pens.
+
+
+Day 4 Goal
+✅ 20 new words
+✅ Singular & Plural
+✅ This, That, These, Those
+✅ Speaking practice
+✅ Writing practice
