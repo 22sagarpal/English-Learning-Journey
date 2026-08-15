@@ -163,4 +163,4 @@ Day 1 Goal
 ✅ 5 simple English sentences
 ✅ 1 short conversation
 
-Day 2 me hum "am, is, are" + Greetings + 20 new words seekhenge
+Day 2 me hum "am, is, are" + Greetings + 20 new words seekhenge.
